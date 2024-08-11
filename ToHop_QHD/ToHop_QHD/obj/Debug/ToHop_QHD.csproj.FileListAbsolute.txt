@@ -1,0 +1,7 @@
+C:\Users\DELL\source\repos\PTTKTT_BTL3\ToHop_QHD\ToHop_QHD\bin\Debug\ToHop_QHD.exe.config
+C:\Users\DELL\source\repos\PTTKTT_BTL3\ToHop_QHD\ToHop_QHD\bin\Debug\ToHop_QHD.exe
+C:\Users\DELL\source\repos\PTTKTT_BTL3\ToHop_QHD\ToHop_QHD\bin\Debug\ToHop_QHD.pdb
+C:\Users\DELL\source\repos\PTTKTT_BTL3\ToHop_QHD\ToHop_QHD\obj\Debug\ToHop_QHD.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\PTTKTT_BTL3\ToHop_QHD\ToHop_QHD\obj\Debug\ToHop_QHD.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\PTTKTT_BTL3\ToHop_QHD\ToHop_QHD\obj\Debug\ToHop_QHD.exe
+C:\Users\DELL\source\repos\PTTKTT_BTL3\ToHop_QHD\ToHop_QHD\obj\Debug\ToHop_QHD.pdb

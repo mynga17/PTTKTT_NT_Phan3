@@ -1,0 +1,7 @@
+C:\Users\DELL\source\repos\PTTKTT_BTL3\DuongDi_QHD\DuongDi_QHD\bin\Debug\DuongDi_QHD.exe.config
+C:\Users\DELL\source\repos\PTTKTT_BTL3\DuongDi_QHD\DuongDi_QHD\bin\Debug\DuongDi_QHD.exe
+C:\Users\DELL\source\repos\PTTKTT_BTL3\DuongDi_QHD\DuongDi_QHD\bin\Debug\DuongDi_QHD.pdb
+C:\Users\DELL\source\repos\PTTKTT_BTL3\DuongDi_QHD\DuongDi_QHD\obj\Debug\DuongDi_QHD.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\PTTKTT_BTL3\DuongDi_QHD\DuongDi_QHD\obj\Debug\DuongDi_QHD.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\PTTKTT_BTL3\DuongDi_QHD\DuongDi_QHD\obj\Debug\DuongDi_QHD.exe
+C:\Users\DELL\source\repos\PTTKTT_BTL3\DuongDi_QHD\DuongDi_QHD\obj\Debug\DuongDi_QHD.pdb
